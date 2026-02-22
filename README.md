@@ -18,4 +18,4 @@ HR Attrition & Analytics Dashboard 📊
 ​Data Visualization: Power BI Desktop
 ​Data Transformation: Power Query (ETL)
 ​Analytical Concepts: Trend Analysis, Demographic Profiling, and HR Metrics.
-(hr_sales.png)
+![dashboard preview](hr_sales.png)
